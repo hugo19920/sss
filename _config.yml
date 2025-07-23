@@ -1,6 +1,6 @@
 # Site settings
 title: Kun Kun Blog
-SEOTitle: Kun Kun的博客 | Hux Blog
+SEOTitle: Kun Kun Blog
 header-img: img/home-bg.jpg
 email: yaddison960@gmail.com
 description: "这里是 Kun Kun 的个人博客，与你一起发现更大的世界"
@@ -13,12 +13,6 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
