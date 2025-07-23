@@ -18,6 +18,6 @@ tags:
 
 简历下载链接如下：
 
-👉 [点击下载我的简历 PDF]([/assets/resume.pdf]([https://drive.google.com/file/d/1T-iPABxpHaGaMYKitRblQW3DcVSegkDN/view?usp=sharing](https://drive.google.com/file/d/1cj3jsD-D4o7IjwTzOBJ4dABGSY3ldH0h/view?usp=sharing)))
+👉 [点击下载我的简历 PDF](https://drive.google.com/file/d/1cj3jsD-D4o7IjwTzOBJ4dABGSY3ldH0h/view?usp=drive_link)
 
 — 袁梦旭，加拿大西安大略大学数学系硕士生
