@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "我的简历（附PDF下载）"
-author:       "Mengxu"
+author:       "Kun Kun"
 header-style: text
 catalog:      true
 tags:
